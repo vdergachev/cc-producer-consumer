@@ -28,7 +28,7 @@
         <spring.boot.version>2.2.1.RELEASE</spring.boot.version>
         <spring.version>5.2.1.RELEASE</spring.version>
         <spring.kafka.version>2.3.3.RELEASE</spring.kafka.version>
-        <validator.version>6.0.18.Final</validator.version>
+        <validator.version>6.1.0.Final</validator.version>
         <jedis.version>3.1.0</jedis.version>
         <lombok.version>1.18.10</lombok.version>
 
